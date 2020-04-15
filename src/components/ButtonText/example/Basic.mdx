@@ -1,0 +1,33 @@
+---
+name: Icon - Button图标
+menu: UI组件
+---
+
+import { Props, Playground } from 'docz'
+import Button from '../index.js'
+
+## 组件名
+
+```js
+import { Button } from 'gjqcom'
+```
+
+具体包含的icon信息可以在iconfont上进行查看
+
+## 基本属性
+
+| 属性名 | 描述 | 类型 | 默认值 | 必填项
+| :----: | :----: | :----: | :----: | :----: |
+| `title` | 自定义title | string | 无 | 否
+| `type` | 自定义的icon类型 | string | 无 | 是
+| `scriptUrl` | 指定icon的代码 | string | 无 | 否
+
+## 基本使用
+
+```js
+<Button style={{color: 'red'}} />
+```
+
+<Playground>
+  <Button type='primary'>确定123</Button>
+</Playground>
