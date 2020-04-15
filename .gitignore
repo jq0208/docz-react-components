@@ -28,5 +28,6 @@ build/Release
 .DS_Store
 .idea
 dist
+.docz
 .cache-loader
 node_modules
