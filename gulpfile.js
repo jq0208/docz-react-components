@@ -32,7 +32,7 @@ function indexBabelify () {
           this.push(file)
           next()
         }))      //压缩
-        .pipe(gulp.dest('dist'));    //打包压缩在build目录下。
+        .pipe(gulp.dest('dist'));    //打包压缩在dist目录下。
 }
 function babelify () {
   return gulp.src(['src/lib/**/*.js', 'src/components/**/*.jsx', 'src/components/**/*.js'])

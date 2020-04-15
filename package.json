@@ -1,7 +1,7 @@
 {
   "name": "giraffe-bui",
   "version": "1.0.0",
-  "description": "练习",
+  "description": "react组件库",
   "main": "dist/index.js",
   "files": [
     "dist"

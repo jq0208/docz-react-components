@@ -13,6 +13,42 @@
   },
   "entries": [
     {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "C:\\Users\\gjq\\Desktop\\docz-react-components\\docz-react-components\\README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "说明",
+            "depth": 1,
+            "value": "说明"
+          },
+          {
+            "slug": "开发",
+            "depth": 1,
+            "value": "开发"
+          },
+          {
+            "slug": "安装",
+            "depth": 1,
+            "value": "安装"
+          },
+          {
+            "slug": "使用",
+            "depth": 1,
+            "value": "使用"
+          }
+        ]
+      }
+    },
+    {
       "key": "src/index.mdx",
       "value": {
         "name": "README",
@@ -44,37 +80,6 @@
             "slug": "使用",
             "depth": 1,
             "value": "使用"
-          }
-        ]
-      }
-    },
-    {
-      "key": "src/components/ButtonText/example/Basic.mdx",
-      "value": {
-        "name": "Icon - Button图标",
-        "menu": "UI组件",
-        "id": "ecbcb7cacbc4a2794d99f88f01db4554",
-        "filepath": "src/components/ButtonText/example/Basic.mdx",
-        "fullpath": "C:\\Users\\gjq\\Desktop\\docz-react-components\\docz-react-components\\src\\components\\ButtonText\\example\\Basic.mdx",
-        "link": "",
-        "hidden": false,
-        "slug": "src-components-button-text-example-basic",
-        "route": "/src-components-button-text-example-basic",
-        "headings": [
-          {
-            "slug": "组件名",
-            "depth": 2,
-            "value": "组件名"
-          },
-          {
-            "slug": "基本属性",
-            "depth": 2,
-            "value": "基本属性"
-          },
-          {
-            "slug": "基本使用",
-            "depth": 2,
-            "value": "基本使用"
           }
         ]
       }
@@ -122,6 +127,37 @@
         "hidden": false,
         "slug": "src-components-icon-example-basic",
         "route": "/src-components-icon-example-basic",
+        "headings": [
+          {
+            "slug": "组件名",
+            "depth": 2,
+            "value": "组件名"
+          },
+          {
+            "slug": "基本属性",
+            "depth": 2,
+            "value": "基本属性"
+          },
+          {
+            "slug": "基本使用",
+            "depth": 2,
+            "value": "基本使用"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/components/ButtonText/example/Basic.mdx",
+      "value": {
+        "name": "Icon - Button图标",
+        "menu": "UI组件",
+        "id": "ecbcb7cacbc4a2794d99f88f01db4554",
+        "filepath": "src/components/ButtonText/example/Basic.mdx",
+        "fullpath": "C:\\Users\\gjq\\Desktop\\docz-react-components\\docz-react-components\\src\\components\\ButtonText\\example\\Basic.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-components-button-text-example-basic",
+        "route": "/src-components-button-text-example-basic",
         "headings": [
           {
             "slug": "组件名",
