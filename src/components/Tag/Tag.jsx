@@ -6,6 +6,7 @@ export default class TagText extends Component {
   }
   render() {
     const {visible} = this.state
+    console.log(123)
     return (
      <div>
        <Button type='primary' onClick={() => { this.setState({visible: !this.state.visible}) }}>{visible ? '隐藏' : '显示'}</Button>
